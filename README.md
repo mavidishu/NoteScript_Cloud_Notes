@@ -1,6 +1,6 @@
-# NoteScript - Notes Anytime AnyWhere
+# NoteScript - Notes Anytime Anywhere
 
-A responsive React.js application that displays that store notes in backend, these notes will be fetched once a user get logged in. It enhances produtivity and helps a lot in daly life routine.
+A responsive react.js application that display stored notes in backend, these notes will be fetched once a user get logged in. It enhances produtivity and helps a lot in daly life routine.
 
 ## Features
 
